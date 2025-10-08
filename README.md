@@ -2,21 +2,21 @@
 
 ## Project info
 
-**URL**: https://autopicher/projects/db5f19fc-ba9d-4825-a3d6-76bcd14a32b6
+**URL**: https://lovable.dev/projects/db5f19fc-ba9d-4825-a3d6-76bcd14a32b6
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use autopicher**
+**Use lovable**
 
-Simply visit the [autopicher Project](https://autopicher/projects/db5f19fc-ba9d-4825-a3d6-76bcd14a32b6) and start prompting.
+Simply visit the [lovable.dev Project](https://lovable.dev/projects/db5f19fc-ba9d-4825-a3d6-76bcd14a32b6) and start prompting.
 
-Changes made via autopicher will be committed automatically to this repo.
+Changes made via lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in autopicher.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [autopicher](https://autopicher/projects/db5f19fc-ba9d-4825-a3d6-76bcd14a32b6) and click on Share -> Publish.
+Simply open [lovable](https://lovable.dev/projects/db5f19fc-ba9d-4825-a3d6-76bcd14a32b6) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my autopicher project?
 
@@ -70,4 +70,4 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.autopicher/features/custom-domain#custom-domain)
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
