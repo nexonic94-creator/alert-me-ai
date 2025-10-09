@@ -50,7 +50,7 @@ const Dashboard = () => {
     e.preventDefault();
     setIsLoading(true);
 
-    const webhookUrl = "https://achjaiswalint.app.n8n.cloud/webhook/ainotifyer/webhook/ainotifyer";
+    const webhookUrl = "https://bhola002.app.n8n.cloud/webhook/ainotifyer";
     
     const alertData = {
       name,
